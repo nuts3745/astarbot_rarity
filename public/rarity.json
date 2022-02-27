@@ -1,0 +1,674 @@
+{
+    "TraitType": [
+        {
+            "Background": [
+                {
+                    "trait": "Astar Gradient",
+                    "weight": "3",
+                    "occurrence": "333 in 8800 editions",
+                    "occurrence_percent": "3.78 "
+                },
+                {
+                    "trait": "Astar Logo",
+                    "weight": "1",
+                    "occurrence": "100 in 8800 editions",
+                    "occurrence_percent": "1.14 "
+                },
+                {
+                    "trait": "Blue",
+                    "weight": "8",
+                    "occurrence": "907 in 8800 editions",
+                    "occurrence_percent": "10.31 "
+                },
+                {
+                    "trait": "Brown",
+                    "weight": "10",
+                    "occurrence": "1113 in 8800 editions",
+                    "occurrence_percent": "12.65 "
+                },
+                {
+                    "trait": "Cyan",
+                    "weight": "10",
+                    "occurrence": "1118 in 8800 editions",
+                    "occurrence_percent": "12.70 "
+                },
+                {
+                    "trait": "Green",
+                    "weight": "7",
+                    "occurrence": "765 in 8800 editions",
+                    "occurrence_percent": "8.69 "
+                },
+                {
+                    "trait": "Olive",
+                    "weight": "12",
+                    "occurrence": "1380 in 8800 editions",
+                    "occurrence_percent": "15.68 "
+                },
+                {
+                    "trait": "Pink",
+                    "weight": "10",
+                    "occurrence": "1190 in 8800 editions",
+                    "occurrence_percent": "13.52 "
+                },
+                {
+                    "trait": "Purple",
+                    "weight": "7",
+                    "occurrence": "804 in 8800 editions",
+                    "occurrence_percent": "9.14 "
+                },
+                {
+                    "trait": "Yellow",
+                    "weight": "10",
+                    "occurrence": "1090 in 8800 editions",
+                    "occurrence_percent": "12.39 "
+                }
+            ]
+        },
+        {
+            "Type": [
+                {
+                    "trait": "Astar",
+                    "weight": "1",
+                    "occurrence": "98 in 8800 editions",
+                    "occurrence_percent": "1.11 "
+                },
+                {
+                    "trait": "Blue",
+                    "weight": "10",
+                    "occurrence": "1247 in 8800 editions",
+                    "occurrence_percent": "14.17 "
+                },
+                {
+                    "trait": "Brown",
+                    "weight": "10",
+                    "occurrence": "1127 in 8800 editions",
+                    "occurrence_percent": "12.81 "
+                },
+                {
+                    "trait": "Dark Blue",
+                    "weight": "8",
+                    "occurrence": "951 in 8800 editions",
+                    "occurrence_percent": "10.81 "
+                },
+                {
+                    "trait": "Gray",
+                    "weight": "10",
+                    "occurrence": "1221 in 8800 editions",
+                    "occurrence_percent": "13.88 "
+                },
+                {
+                    "trait": "Green",
+                    "weight": "8",
+                    "occurrence": "919 in 8800 editions",
+                    "occurrence_percent": "10.44 "
+                },
+                {
+                    "trait": "Light Blue",
+                    "weight": "6",
+                    "occurrence": "743 in 8800 editions",
+                    "occurrence_percent": "8.44 "
+                },
+                {
+                    "trait": "Orange",
+                    "weight": "10",
+                    "occurrence": "1149 in 8800 editions",
+                    "occurrence_percent": "13.06 "
+                },
+                {
+                    "trait": "Purple",
+                    "weight": "3",
+                    "occurrence": "377 in 8800 editions",
+                    "occurrence_percent": "4.28 "
+                },
+                {
+                    "trait": "Red",
+                    "weight": "4",
+                    "occurrence": "487 in 8800 editions",
+                    "occurrence_percent": "5.53 "
+                },
+                {
+                    "trait": "Yellow",
+                    "weight": "4",
+                    "occurrence": "481 in 8800 editions",
+                    "occurrence_percent": "5.47 "
+                }
+            ]
+        },
+        {
+            "Eyes": [
+                {
+                    "trait": "3D",
+                    "weight": "4",
+                    "occurrence": "237 in 8800 editions",
+                    "occurrence_percent": "2.69 "
+                },
+                {
+                    "trait": "Astar Maxi",
+                    "weight": "2",
+                    "occurrence": "97 in 8800 editions",
+                    "occurrence_percent": "1.10 "
+                },
+                {
+                    "trait": "Big Shades",
+                    "weight": "3",
+                    "occurrence": "168 in 8800 editions",
+                    "occurrence_percent": "1.91 "
+                },
+                {
+                    "trait": "Blue Cyclop",
+                    "weight": "5",
+                    "occurrence": "303 in 8800 editions",
+                    "occurrence_percent": "3.44 "
+                },
+                {
+                    "trait": "Blue Shades",
+                    "weight": "6",
+                    "occurrence": "356 in 8800 editions",
+                    "occurrence_percent": "4.05 "
+                },
+                {
+                    "trait": "Blue Superhero",
+                    "weight": "3",
+                    "occurrence": "163 in 8800 editions",
+                    "occurrence_percent": "1.85 "
+                },
+                {
+                    "trait": "Blue",
+                    "weight": "8",
+                    "occurrence": "473 in 8800 editions",
+                    "occurrence_percent": "5.38 "
+                },
+                {
+                    "trait": "Brown",
+                    "weight": "10",
+                    "occurrence": "511 in 8800 editions",
+                    "occurrence_percent": "5.81 "
+                },
+                {
+                    "trait": "Eye Patch",
+                    "weight": "7",
+                    "occurrence": "431 in 8800 editions",
+                    "occurrence_percent": "4.90 "
+                },
+                {
+                    "trait": "Furious",
+                    "weight": "4",
+                    "occurrence": "229 in 8800 editions",
+                    "occurrence_percent": "2.60 "
+                },
+                {
+                    "trait": "Green Cyclop",
+                    "weight": "5",
+                    "occurrence": "327 in 8800 editions",
+                    "occurrence_percent": "3.72 "
+                },
+                {
+                    "trait": "Green Superhero",
+                    "weight": "3",
+                    "occurrence": "148 in 8800 editions",
+                    "occurrence_percent": "1.68 "
+                },
+                {
+                    "trait": "Green",
+                    "weight": "8",
+                    "occurrence": "478 in 8800 editions",
+                    "occurrence_percent": "5.43 "
+                },
+                {
+                    "trait": "Happy",
+                    "weight": "10",
+                    "occurrence": "578 in 8800 editions",
+                    "occurrence_percent": "6.57 "
+                },
+                {
+                    "trait": "Normal",
+                    "weight": "10",
+                    "occurrence": "539 in 8800 editions",
+                    "occurrence_percent": "6.13 "
+                },
+                {
+                    "trait": "Pink Cyclop",
+                    "weight": "5",
+                    "occurrence": "268 in 8800 editions",
+                    "occurrence_percent": "3.05 "
+                },
+                {
+                    "trait": "Pink Superhero",
+                    "weight": "3",
+                    "occurrence": "165 in 8800 editions",
+                    "occurrence_percent": "1.88 "
+                },
+                {
+                    "trait": "Red Cyclop",
+                    "weight": "4",
+                    "occurrence": "240 in 8800 editions",
+                    "occurrence_percent": "2.73 "
+                },
+                {
+                    "trait": "Regular Shades",
+                    "weight": "8",
+                    "occurrence": "466 in 8800 editions",
+                    "occurrence_percent": "5.30 "
+                },
+                {
+                    "trait": "Sleepy",
+                    "weight": "10",
+                    "occurrence": "592 in 8800 editions",
+                    "occurrence_percent": "6.73 "
+                },
+                {
+                    "trait": "Sunglasses",
+                    "weight": "3",
+                    "occurrence": "175 in 8800 editions",
+                    "occurrence_percent": "1.99 "
+                },
+                {
+                    "trait": "Surprised",
+                    "weight": "10",
+                    "occurrence": "580 in 8800 editions",
+                    "occurrence_percent": "6.59 "
+                },
+                {
+                    "trait": "Unusual",
+                    "weight": "8",
+                    "occurrence": "447 in 8800 editions",
+                    "occurrence_percent": "5.08 "
+                },
+                {
+                    "trait": "Wink",
+                    "weight": "10",
+                    "occurrence": "547 in 8800 editions",
+                    "occurrence_percent": "6.22 "
+                },
+                {
+                    "trait": "Yellow Cyclop",
+                    "weight": "5",
+                    "occurrence": "282 in 8800 editions",
+                    "occurrence_percent": "3.20 "
+                }
+            ]
+        },
+        {
+            "Mouth": [
+                {
+                    "trait": "Beard",
+                    "weight": "6",
+                    "occurrence": "880 in 8800 editions",
+                    "occurrence_percent": "10.00 "
+                },
+                {
+                    "trait": "Big",
+                    "weight": "8",
+                    "occurrence": "1219 in 8800 editions",
+                    "occurrence_percent": "13.85 "
+                },
+                {
+                    "trait": "Cigarette",
+                    "weight": "4",
+                    "occurrence": "586 in 8800 editions",
+                    "occurrence_percent": "6.66 "
+                },
+                {
+                    "trait": "Happy",
+                    "weight": "10",
+                    "occurrence": "1471 in 8800 editions",
+                    "occurrence_percent": "16.72 "
+                },
+                {
+                    "trait": "Joint",
+                    "weight": "4",
+                    "occurrence": "636 in 8800 editions",
+                    "occurrence_percent": "7.23 "
+                },
+                {
+                    "trait": "Mustache",
+                    "weight": "5",
+                    "occurrence": "739 in 8800 editions",
+                    "occurrence_percent": "8.40 "
+                },
+                {
+                    "trait": "Orange",
+                    "weight": "2",
+                    "occurrence": "314 in 8800 editions",
+                    "occurrence_percent": "3.57 "
+                },
+                {
+                    "trait": "Regular",
+                    "weight": "10",
+                    "occurrence": "1483 in 8800 editions",
+                    "occurrence_percent": "16.85 "
+                },
+                {
+                    "trait": "Small",
+                    "weight": "7",
+                    "occurrence": "1010 in 8800 editions",
+                    "occurrence_percent": "11.48 "
+                },
+                {
+                    "trait": "Vape",
+                    "weight": "3",
+                    "occurrence": "462 in 8800 editions",
+                    "occurrence_percent": "5.25 "
+                }
+            ]
+        },
+        {
+            "Head": [
+                {
+                    "trait": "Backwards Cap",
+                    "weight": "7",
+                    "occurrence": "282 in 8800 editions",
+                    "occurrence_percent": "3.20 "
+                },
+                {
+                    "trait": "Bandana",
+                    "weight": "4",
+                    "occurrence": "178 in 8800 editions",
+                    "occurrence_percent": "2.02 "
+                },
+                {
+                    "trait": "Beanie",
+                    "weight": "7",
+                    "occurrence": "309 in 8800 editions",
+                    "occurrence_percent": "3.51 "
+                },
+                {
+                    "trait": "Blue Backwards cap",
+                    "weight": "7",
+                    "occurrence": "299 in 8800 editions",
+                    "occurrence_percent": "3.40 "
+                },
+                {
+                    "trait": "Blue Mohawk",
+                    "weight": "5",
+                    "occurrence": "242 in 8800 editions",
+                    "occurrence_percent": "2.75 "
+                },
+                {
+                    "trait": "Cap",
+                    "weight": "5",
+                    "occurrence": "226 in 8800 editions",
+                    "occurrence_percent": "2.57 "
+                },
+                {
+                    "trait": "Cat Ears",
+                    "weight": "8",
+                    "occurrence": "349 in 8800 editions",
+                    "occurrence_percent": "3.97 "
+                },
+                {
+                    "trait": "Cowboy Hat",
+                    "weight": "4",
+                    "occurrence": "183 in 8800 editions",
+                    "occurrence_percent": "2.08 "
+                },
+                {
+                    "trait": "Crown",
+                    "weight": "2",
+                    "occurrence": "84 in 8800 editions",
+                    "occurrence_percent": "0.95 "
+                },
+                {
+                    "trait": "Double Antenna",
+                    "weight": "8",
+                    "occurrence": "357 in 8800 editions",
+                    "occurrence_percent": "4.06 "
+                },
+                {
+                    "trait": "Fast Food Cap",
+                    "weight": "3",
+                    "occurrence": "144 in 8800 editions",
+                    "occurrence_percent": "1.64 "
+                },
+                {
+                    "trait": "Fauxhawk",
+                    "weight": "9",
+                    "occurrence": "389 in 8800 editions",
+                    "occurrence_percent": "4.42 "
+                },
+                {
+                    "trait": "Feather Headband",
+                    "weight": "9",
+                    "occurrence": "374 in 8800 editions",
+                    "occurrence_percent": "4.25 "
+                },
+                {
+                    "trait": "Fedora",
+                    "weight": "6",
+                    "occurrence": "255 in 8800 editions",
+                    "occurrence_percent": "2.90 "
+                },
+                {
+                    "trait": "Flaming",
+                    "weight": "3",
+                    "occurrence": "140 in 8800 editions",
+                    "occurrence_percent": "1.59 "
+                },
+                {
+                    "trait": "Green Antenna",
+                    "weight": "8",
+                    "occurrence": "319 in 8800 editions",
+                    "occurrence_percent": "3.62 "
+                },
+                {
+                    "trait": "Green Headphones",
+                    "weight": "4",
+                    "occurrence": "174 in 8800 editions",
+                    "occurrence_percent": "1.98 "
+                },
+                {
+                    "trait": "Green Mohawk",
+                    "weight": "5",
+                    "occurrence": "222 in 8800 editions",
+                    "occurrence_percent": "2.52 "
+                },
+                {
+                    "trait": "Helicopter Hat",
+                    "weight": "2",
+                    "occurrence": "84 in 8800 editions",
+                    "occurrence_percent": "0.95 "
+                },
+                {
+                    "trait": "Kasa",
+                    "weight": "7",
+                    "occurrence": "325 in 8800 editions",
+                    "occurrence_percent": "3.69 "
+                },
+                {
+                    "trait": "Lucky Hat",
+                    "weight": "5",
+                    "occurrence": "194 in 8800 editions",
+                    "occurrence_percent": "2.20 "
+                },
+                {
+                    "trait": "None",
+                    "weight": "12",
+                    "occurrence": "522 in 8800 editions",
+                    "occurrence_percent": "5.93 "
+                },
+                {
+                    "trait": "Orange Mohawk",
+                    "weight": "5",
+                    "occurrence": "199 in 8800 editions",
+                    "occurrence_percent": "2.26 "
+                },
+                {
+                    "trait": "Pink Cap",
+                    "weight": "7",
+                    "occurrence": "308 in 8800 editions",
+                    "occurrence_percent": "3.50 "
+                },
+                {
+                    "trait": "Pink Headphones",
+                    "weight": "4",
+                    "occurrence": "180 in 8800 editions",
+                    "occurrence_percent": "2.05 "
+                },
+                {
+                    "trait": "Pink Mohawk",
+                    "weight": "5",
+                    "occurrence": "205 in 8800 editions",
+                    "occurrence_percent": "2.33 "
+                },
+                {
+                    "trait": "Pirate Bandana",
+                    "weight": "4",
+                    "occurrence": "175 in 8800 editions",
+                    "occurrence_percent": "1.99 "
+                },
+                {
+                    "trait": "Police Cap",
+                    "weight": "2",
+                    "occurrence": "89 in 8800 editions",
+                    "occurrence_percent": "1.01 "
+                },
+                {
+                    "trait": "Radio Antenna",
+                    "weight": "8",
+                    "occurrence": "363 in 8800 editions",
+                    "occurrence_percent": "4.13 "
+                },
+                {
+                    "trait": "Red Crazy Hair",
+                    "weight": "2",
+                    "occurrence": "96 in 8800 editions",
+                    "occurrence_percent": "1.09 "
+                },
+                {
+                    "trait": "Red Mohawk",
+                    "weight": "8",
+                    "occurrence": "319 in 8800 editions",
+                    "occurrence_percent": "3.62 "
+                },
+                {
+                    "trait": "Stringy Hair",
+                    "weight": "10",
+                    "occurrence": "465 in 8800 editions",
+                    "occurrence_percent": "5.28 "
+                },
+                {
+                    "trait": "Top Hat",
+                    "weight": "9",
+                    "occurrence": "402 in 8800 editions",
+                    "occurrence_percent": "4.57 "
+                },
+                {
+                    "trait": "TV Antenna",
+                    "weight": "8",
+                    "occurrence": "348 in 8800 editions",
+                    "occurrence_percent": "3.95 "
+                }
+            ]
+        },
+        {
+            "Body": [
+                {
+                    "trait": "Bathrobe",
+                    "weight": "4",
+                    "occurrence": "598 in 8800 editions",
+                    "occurrence_percent": "6.80 "
+                },
+                {
+                    "trait": "Dog Leash",
+                    "weight": "8",
+                    "occurrence": "1177 in 8800 editions",
+                    "occurrence_percent": "13.38 "
+                },
+                {
+                    "trait": "Hi Vis Vest",
+                    "weight": "5",
+                    "occurrence": "692 in 8800 editions",
+                    "occurrence_percent": "7.86 "
+                },
+                {
+                    "trait": "None",
+                    "weight": "18",
+                    "occurrence": "2580 in 8800 editions",
+                    "occurrence_percent": "29.32 "
+                },
+                {
+                    "trait": "Pink Diamond Necklace",
+                    "weight": "4",
+                    "occurrence": "606 in 8800 editions",
+                    "occurrence_percent": "6.89 "
+                },
+                {
+                    "trait": "Red Kimono",
+                    "weight": "6",
+                    "occurrence": "840 in 8800 editions",
+                    "occurrence_percent": "9.55 "
+                },
+                {
+                    "trait": "Torii",
+                    "weight": "6",
+                    "occurrence": "886 in 8800 editions",
+                    "occurrence_percent": "10.07 "
+                },
+                {
+                    "trait": "Tuxedo",
+                    "weight": "10",
+                    "occurrence": "1421 in 8800 editions",
+                    "occurrence_percent": "16.15 "
+                }
+            ]
+        },
+        {
+            "Accessories": [
+                {
+                    "trait": "Double Red Lightsaber",
+                    "weight": "2",
+                    "occurrence": "589 in 8800 editions",
+                    "occurrence_percent": "6.69 "
+                },
+                {
+                    "trait": "Earring",
+                    "weight": "5",
+                    "occurrence": "1537 in 8800 editions",
+                    "occurrence_percent": "17.47 "
+                },
+                {
+                    "trait": "Green Lightsaber",
+                    "weight": "2",
+                    "occurrence": "621 in 8800 editions",
+                    "occurrence_percent": "7.06 "
+                },
+                {
+                    "trait": "Hook Hand",
+                    "weight": "2",
+                    "occurrence": "618 in 8800 editions",
+                    "occurrence_percent": "7.02 "
+                },
+                {
+                    "trait": "Jetpack",
+                    "weight": "1",
+                    "occurrence": "326 in 8800 editions",
+                    "occurrence_percent": "3.70 "
+                },
+                {
+                    "trait": "Live Saving Tube",
+                    "weight": "3",
+                    "occurrence": "938 in 8800 editions",
+                    "occurrence_percent": "10.66 "
+                },
+                {
+                    "trait": "None",
+                    "weight": "10",
+                    "occurrence": "2985 in 8800 editions",
+                    "occurrence_percent": "33.92 "
+                },
+                {
+                    "trait": "Propulsion Board",
+                    "weight": "1",
+                    "occurrence": "303 in 8800 editions",
+                    "occurrence_percent": "3.44 "
+                },
+                {
+                    "trait": "Shield & Sword",
+                    "weight": "3",
+                    "occurrence": "883 in 8800 editions",
+                    "occurrence_percent": "10.03 "
+                }
+            ]
+        }
+    ]
+}
