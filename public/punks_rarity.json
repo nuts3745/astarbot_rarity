@@ -1,0 +1,103 @@
+{
+    "TraitType": [
+        {
+            "Background": [
+                { "trait": "1", "percent": "15.9" },
+                { "trait": "2", "percent": "16.1" },
+                { "trait": "3", "percent": "16.0" },
+                { "trait": "4", "percent": "15.6" },
+                { "trait": "5", "percent": "15.5" },
+                { "trait": "Astar", "percent": "3.9" },
+                { "trait": "White_Astar", "percent": "7.2" },
+                { "trait": "Pallete", "percent": "9.7" }
+            ]
+        },
+        {
+            "Extra": [
+                { "trait": "None", "percent": "91.4" },
+                { "trait": "earing", "percent": "2.9" },
+                { "trait": "gold earing", "percent": "5.7" }
+            ]
+        },
+        {
+            "Eyes": [
+                { "trait": "3dGlasses", "percent": "3.8" },
+                { "trait": "AstarVR", "percent": "1.3" },
+                { "trait": "Beach_Glasses", "percent": "2.8" },
+                { "trait": "Ciclops", "percent": "1.3" },
+                { "trait": "Ciclops2", "percent": "2.5" },
+                { "trait": "Ciclops3", "percent": "3.6" },
+                { "trait": "CrazyGlasses", "percent": "3.6" },
+                { "trait": "Cross_Eyes", "percent": "2.6" },
+                { "trait": "Glasses", "percent": "3.7" },
+                { "trait": "HeartGlases", "percent": "5.0" },
+                { "trait": "Hype", "percent": "5.8" },
+                { "trait": "New_Glasses", "percent": "3.8" },
+                { "trait": "None", "percent": "35.8" },
+                { "trait": "Patch", "percent": "2.4" },
+                { "trait": "Read_Glasses", "percent": "3.8" },
+                { "trait": "Red_eyes", "percent": "2.7" },
+                { "trait": "RedCrossPatch", "percent": "2.7" },
+                { "trait": "Shades", "percent": "6.7" },
+                { "trait": "VR", "percent": "3.9" },
+                { "trait": "White_Glasses", "percent": "2.1" }
+            ]
+        },
+        {
+            "Head": [
+                { "trait": "Astar_Cowboyt", "percent": "5.0" },
+                { "trait": "Bandana", "percent": "3.0" },
+                { "trait": "Beanie", "percent": "4.9" },
+                { "trait": "BirdayCap", "percent": "1.3" },
+                { "trait": "Bloody_Viking", "percent": "1.3" },
+                { "trait": "BlueWings", "percent": "1.1" },
+                { "trait": "Cap", "percent": "3.1" },
+                { "trait": "Cap_Foward", "percent": "4.5" },
+                { "trait": "Cap2", "percent": "1.0" },
+                { "trait": "CowboyHat", "percent": "2.4" },
+                { "trait": "Elegant_Hat", "percent": "2.9" },
+                { "trait": "Hat", "percent": "3.3" },
+                { "trait": "Headband", "percent": "6.3" },
+                { "trait": "Headband2", "percent": "2.2" },
+                { "trait": "Headband3", "percent": "2.4" },
+                { "trait": "Inca_hat", "percent": "3.3" },
+                { "trait": "Inca_hat2", "percent": "2.4" },
+                { "trait": "Inca_inclusive_hat", "percent": "0.9" },
+                { "trait": "Ninja_bandana", "percent": "1.2" },
+                { "trait": "None", "percent": "20.4" },
+                { "trait": "Red_Elegant_Hat", "percent": "2.1" },
+                { "trait": "RedBandana", "percent": "1.1" },
+                { "trait": "RedCap", "percent": "2.3" },
+                { "trait": "Samurai_Astar", "percent": "1.4" },
+                { "trait": "Samurai_Hat", "percent": "3.2" },
+                { "trait": "ShowerCap", "percent": "2.2" },
+                { "trait": "Tall_Hat", "percent": "2.2" },
+                { "trait": "Viking_helmet", "percent": "3.1" },
+                { "trait": "White_CowboyHat", "percent": "1.4" },
+                { "trait": "White_Elegant_Hat", "percent": "1.2" },
+                { "trait": "WhiteCap", "percent": "3.4" }
+            ]
+        },
+        {
+            "Mouth": [
+                { "trait": "None", "percent": "57.1" },
+                { "trait": "Pipe", "percent": "9.5" },
+                { "trait": "RedPipe", "percent": "4.5" },
+                { "trait": "YellowPipe", "percent": "2.1" },
+                { "trait": "Happy", "percent": "9.4" },
+                { "trait": "Cigarette", "percent": "9.8" },
+                { "trait": "Habano", "percent": "5.6" },
+                { "trait": "Gold_Teeth", "percent": "1.9" }
+            ]
+        },
+        {
+            "Type": [
+                { "trait": "Alien", "percent": "29.8" },
+                { "trait": "Ape", "percent": "16.0" },
+                { "trait": "Man", "percent": "26.1" },
+                { "trait": "Woman", "percent": "12.7" },
+                { "trait": "Zombie", "percent": "15.4" }
+            ]
+        }
+    ]
+}
