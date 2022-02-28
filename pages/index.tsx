@@ -5,8 +5,11 @@ import FormLabel from "@mui/material/FormLabel";
 import Radio from "@mui/material/Radio";
 import RadioGroup from "@mui/material/RadioGroup";
 import { DataGrid, GridToolbar } from "@mui/x-data-grid";
+import Image from "next/image";
 import { useState } from "react";
 import bots_rarity from "../public/bots_rarity.json";
+import PunksImage from "../public/GI3q2dJp_400x400.jpg";
+import BotsImage from "../public/J0GyOuro_400x400.png";
 import punks_rarity from "../public/punks_rarity.json";
 
 export default function Home() {
@@ -46,6 +49,8 @@ export default function Home() {
                 <Button
                     variant="outlined"
                     onClick={() => {
+                        setTraitType("Background");
+                        setIndex(0);
                         if (selectNft === "Bots") {
                             setSelectNft("Punks");
                         } else {
@@ -60,9 +65,13 @@ export default function Home() {
             {selectNft === "Bots" ? (
                 <>
                     <FormControl>
-                        <FormLabel id="demo-row-radio-buttons-group-label">
-                            AstarBots Rarity
-                        </FormLabel>
+                        <div>
+                            <Image src={BotsImage} width={30} height={30} />
+                            <FormLabel id="demo-row-radio-buttons-group-label">
+                                AstarBots Rarity
+                            </FormLabel>
+                        </div>
+
                         <RadioGroup
                             row
                             aria-labelledby="demo-row-radio-buttons-group-label"
@@ -70,7 +79,11 @@ export default function Home() {
                             name="row-radio-buttons-group">
                             <FormControlLabel
                                 value="Background"
-                                control={<Radio />}
+                                control={
+                                    <Radio
+                                        checked={traitType === "Background"}
+                                    />
+                                }
                                 onChange={() => {
                                     setTraitType("Background");
                                     setIndex(0);
@@ -79,7 +92,9 @@ export default function Home() {
                             />
                             <FormControlLabel
                                 value="Type"
-                                control={<Radio />}
+                                control={
+                                    <Radio checked={traitType === "Type"} />
+                                }
                                 onChange={() => {
                                     setTraitType("Type");
                                     setIndex(1);
@@ -88,7 +103,9 @@ export default function Home() {
                             />
                             <FormControlLabel
                                 value="Eyes"
-                                control={<Radio />}
+                                control={
+                                    <Radio checked={traitType === "Eyes"} />
+                                }
                                 onChange={() => {
                                     setTraitType("Eyes");
                                     setIndex(2);
@@ -97,7 +114,9 @@ export default function Home() {
                             />
                             <FormControlLabel
                                 value="Mouth"
-                                control={<Radio />}
+                                control={
+                                    <Radio checked={traitType === "Mouth"} />
+                                }
                                 onChange={() => {
                                     setTraitType("Mouth");
                                     setIndex(3);
@@ -106,7 +125,9 @@ export default function Home() {
                             />
                             <FormControlLabel
                                 value="Head"
-                                control={<Radio />}
+                                control={
+                                    <Radio checked={traitType === "Head"} />
+                                }
                                 onChange={() => {
                                     setTraitType("Head");
                                     setIndex(4);
@@ -115,7 +136,9 @@ export default function Home() {
                             />
                             <FormControlLabel
                                 value="Body"
-                                control={<Radio />}
+                                control={
+                                    <Radio checked={traitType === "Body"} />
+                                }
                                 onChange={() => {
                                     setTraitType("Body");
                                     setIndex(5);
@@ -124,7 +147,11 @@ export default function Home() {
                             />
                             <FormControlLabel
                                 value="Accessories"
-                                control={<Radio />}
+                                control={
+                                    <Radio
+                                        checked={traitType === "Accessories"}
+                                    />
+                                }
                                 onChange={() => {
                                     setTraitType("Accessories");
                                     setIndex(6);
@@ -150,9 +177,12 @@ export default function Home() {
             ) : (
                 <>
                     <FormControl>
-                        <FormLabel id="demo-row-radio-buttons-group-label">
-                            AstarPunks Rarity
-                        </FormLabel>
+                        <div>
+                            <Image src={PunksImage} width={30} height={30} />
+                            <FormLabel id="demo-row-radio-buttons-group-label">
+                                AstarPunks Rarity
+                            </FormLabel>
+                        </div>
                         <RadioGroup
                             row
                             aria-labelledby="demo-row-radio-buttons-group-label"
@@ -160,7 +190,11 @@ export default function Home() {
                             name="row-radio-buttons-group">
                             <FormControlLabel
                                 value="Background"
-                                control={<Radio />}
+                                control={
+                                    <Radio
+                                        checked={traitType === "Background"}
+                                    />
+                                }
                                 onChange={() => {
                                     setTraitType("Background");
                                     setIndex(0);
@@ -169,7 +203,9 @@ export default function Home() {
                             />
                             <FormControlLabel
                                 value="Extra"
-                                control={<Radio />}
+                                control={
+                                    <Radio checked={traitType === "Extra"} />
+                                }
                                 onChange={() => {
                                     setTraitType("Extra");
                                     setIndex(1);
@@ -178,7 +214,9 @@ export default function Home() {
                             />
                             <FormControlLabel
                                 value="Eyes"
-                                control={<Radio />}
+                                control={
+                                    <Radio checked={traitType === "Eyes"} />
+                                }
                                 onChange={() => {
                                     setTraitType("Eyes");
                                     setIndex(2);
@@ -187,7 +225,9 @@ export default function Home() {
                             />
                             <FormControlLabel
                                 value="Head"
-                                control={<Radio />}
+                                control={
+                                    <Radio checked={traitType === "Head"} />
+                                }
                                 onChange={() => {
                                     setTraitType("Head");
                                     setIndex(3);
@@ -197,7 +237,9 @@ export default function Home() {
 
                             <FormControlLabel
                                 value="Mouth"
-                                control={<Radio />}
+                                control={
+                                    <Radio checked={traitType === "Mouth"} />
+                                }
                                 onChange={() => {
                                     setTraitType("Mouth");
                                     setIndex(4);
@@ -206,7 +248,9 @@ export default function Home() {
                             />
                             <FormControlLabel
                                 value="Type"
-                                control={<Radio />}
+                                control={
+                                    <Radio checked={traitType === "Type"} />
+                                }
                                 onChange={() => {
                                     setTraitType("Type");
                                     setIndex(5);
