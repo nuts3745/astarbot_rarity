@@ -52,7 +52,9 @@ export default function Home() {
                             setSelectNft("Bots");
                         }
                     }}>
-                    {selectNft === "Bots" ? "Switch Punks" : "Switch Bots"}
+                    {selectNft === "Bots"
+                        ? "Switch To Punks"
+                        : "Switch To Bots"}
                 </Button>
             </div>
             {selectNft === "Bots" ? (
